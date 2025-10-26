@@ -3,7 +3,7 @@ function Msg({Lista}) {
     
     const [msgAtual, setMsg] = useState("Eu vou ser trocado :<")
     const [reps, setReps] = useState(0)
-
+    // testando o adicionamento
 
     function Randomize() {
         const indice = Math.floor(Math.random() * Lista.length);

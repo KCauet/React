@@ -1,0 +1,29 @@
+.itens {
+    background-color: lightgrey;
+    position: absolute;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.MenuBtn {
+    margin-left: 25px;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border: none;
+    cursor: pointer;
+    background-color: white;
+}
+
+.BtnLines {
+    height: 2px;
+    display: flex;
+    background-color: black;
+}
+
+li {
+    list-style-type: none;
+}

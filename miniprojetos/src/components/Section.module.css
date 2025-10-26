@@ -1,0 +1,19 @@
+.box {
+    border-radius: 20px;
+    border: solid 1px;
+    background-color: var(--bg);
+    background-image: var(--gradient);
+    border-color: var(--border);
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.titulo {
+    padding: 10px;
+}
+/*
+.desc {
+
+}
+*/

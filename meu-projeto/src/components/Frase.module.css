@@ -1,0 +1,10 @@
+/* Meu css do componente em especifico */
+
+.fraseContainer {
+    background: grey;
+    border: solid;
+}
+
+.fraseContent {
+    font-style: oblique;
+}
